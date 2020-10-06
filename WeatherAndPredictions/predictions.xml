@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE root[
+<!ELEMENT root (prediction+)>
+<!ELEMENT prediction (sign, text)>
+<!ELEMENT sign (#PCDATA)>
+<!ELEMENT text (#PCDATA)>
+]>
+
+<root>
+    <prediction>
+        <sign>1</sign>
+        <text>Жизнь пополниться еще одной радостью.</text>
+    </prediction>
+    <prediction>
+        <sign>2</sign>
+        <text>Вы обязательно достигнете выбранной цели, если будете ей верны.</text>
+    </prediction>
+    <prediction>
+        <sign>3</sign>
+        <text>Раздражающая бытовая неисправность в квартире будет устранена.</text>
+    </prediction>
+    <prediction>
+        <sign>4</sign>
+        <text>Вы сможете преуспеть, добиться успехов в работе. Финансовые вопросы и личные проблемы смогут быть решены в вашу пользу.</text>
+    </prediction>
+    <prediction>
+        <sign>5</sign>
+        <text>Вас ждет встреча с чьим-то отзывчивым сердцем.</text>
+    </prediction>
+    <prediction>
+        <sign>6</sign>
+        <text>Чей-то драгоценный опыт сослужит вам хорошую службу.</text>
+    </prediction>
+    <prediction>
+        <sign>7</sign>
+        <text>Для этого требуются находчивость и изворотливость.</text>
+    </prediction>
+    <prediction>
+        <sign>8</sign>
+        <text>Шанс на победу появится, когда будет точно определена цель.</text>
+    </prediction>
+    <prediction>
+        <sign>9</sign>
+        <text>Сегодня лучше останьтесь дома. Возможен несчастный случай.</text>
+    </prediction>
+    <prediction>
+        <sign>10</sign>
+        <text>Дорога под названием "потом" приведет вас в страну под названием "никууда". Смените дорогу.</text>
+    </prediction>
+    <prediction>
+        <sign>11</sign>
+        <text>Вы сможете затмить многих, если найдете того, кто объяснит вам законы популярности.</text>
+    </prediction>
+</root>

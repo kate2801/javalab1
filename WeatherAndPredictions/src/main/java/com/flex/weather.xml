@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <weather>
+        <description>Снег</description>
+    </weather>
+    <weather>
+        <description>Солнечно</description>
+    </weather>
+    <weather>
+        <description>Дождь</description>
+    </weather>
+    <weather>
+        <description>Туман</description>
+    </weather>
+</root>
